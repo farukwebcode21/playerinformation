@@ -1,0 +1,20 @@
+.player{
+    display: flex;
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+    
+}
+.player-profile{
+    width: 70%;
+}
+.Selected-player{
+    display: grid;
+    grid-template-columns: auto;
+    height: fit-content;
+    width: 30%;
+    box-shadow: 5px 5px 10px gray;
+}

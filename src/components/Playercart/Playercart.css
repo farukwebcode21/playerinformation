@@ -1,0 +1,7 @@
+
+.cart{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    box-shadow: 5px 5px 10px gray;
+    padding: 20px;
+}
